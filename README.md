@@ -15,6 +15,8 @@ It's kinda strange, but many people still don't know Markdown, although there is
 >
 > — about [Markdown] at **Wikipedia**
 
+EDITS GO HERE
+
 ## Exercises
 
 This workshopper has 12 easy and clear tasks that cover the most important aspects of Markdown.
