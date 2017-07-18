@@ -2,3 +2,4 @@
 - To execute your program, run: `{appname} run file.md`
 - To verify your program, run: `{appname} verify file.md`
 - For help run: `{appname} help`
+- To do something with style man: `{whatyourfeelin} whatyouneed`
