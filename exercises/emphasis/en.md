@@ -1,4 +1,4 @@
-It's easy to mark text as _italic_, **bold**, _**combined**_ and ~~strikethrough~~. There are a few ways to make emphasis in Markdown and each of those is readable.
+It's easy to mark text as _italic_, **bold**, _**combined**_ and ~~strikethrough~~. There are a few ways to make emphasis in Markdown and each of those is readable.  Yes, when you do markdown, you can learn so much.
 
 To get emphasis just wrap some text in single, double or triple asterisks (`*`) or underscores (`_`). Here are some examples:
 
