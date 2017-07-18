@@ -1,6 +1,6 @@
-![how-to-markdown](./preview.png)
+﻿![how-to-markdown](./preview.png)
 
-# how-to-markdown
+# how-to-markdown, markdown markdown
 
 [![NPM version][npm-image]][npm-url]
 [![node][node-image]][node-url]
