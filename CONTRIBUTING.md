@@ -18,4 +18,4 @@ Submitting many PRs? Please volunteer to lead this repository! Lead maintainers 
 
 > Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit. 
 
-my name is eric. 
+my name is Eric. 
