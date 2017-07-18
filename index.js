@@ -13,7 +13,7 @@ const HowToMarkdown = workshopper({
 });
 
 HowToMarkdown.addAll([
-  'GO HEELS'
+  'GO HEELS',
   'HELLO WORLD',
   'HEADINGS',
   'EMPHASIS',
