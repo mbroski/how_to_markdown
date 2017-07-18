@@ -12,6 +12,7 @@ const HowToMarkdown = workshopper({
   }],
 });
 
+//Add exercises to workshopper module
 HowToMarkdown.addAll([
   'HELLO WORLD',
   'HEADINGS',
