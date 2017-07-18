@@ -62,7 +62,8 @@ module.exports = (dirname) => {
       .catch(reason => done(reason, false));
   };
 
-  exports.run = function run(args, done) {
+  //update for ES6 function declaration
+  exports.run = (args, done) => {
     const filename = args[0];
 
     const processor = remark().use(html);
