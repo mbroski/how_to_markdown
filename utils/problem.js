@@ -14,7 +14,7 @@ const fail = require('./fail');
 module.exports = (dirname) => {
   const exports = {};
 
-  exports.init = function init(workshopper) {
+  exports.init = (workshopper) => {
     // Get lang code
     const lang = workshopper.i18n.lang();
 
@@ -30,7 +30,7 @@ module.exports = (dirname) => {
       path.join(__dirname, '..', 'i18n', 'troubleshooting', `${lang}.md`);
   };
 
-  exports.verify = function verify(args, done) {
+  exports.verify = (args, done) => {
     const filename = args[0];
     const attempt = fs.readFileSync(filename, 'utf8');
     const solution = fs.readFileSync(this.solutionPath, 'utf8');
@@ -62,7 +62,7 @@ module.exports = (dirname) => {
       .catch(reason => done(reason, false));
   };
 
-  exports.run = function run(args, done) {
+  exports.run = (args, done) => {
     const filename = args[0];
 
     const processor = remark().use(html);
